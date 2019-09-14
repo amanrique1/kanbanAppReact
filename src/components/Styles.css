@@ -1,0 +1,18 @@
+/*Task*/
+#btnDone{
+    margin-top: 50px;
+}
+#doneButton{
+position: absolute;
+right:    8px;
+bottom:   8px;
+}
+/*TaskList*/
+#myCardTitle{
+    width:80px;
+    margin-top:-10px;
+    margin-left:5px;
+    background:#007bff;
+    border-radius:0.25rem;
+    color: white;
+}
